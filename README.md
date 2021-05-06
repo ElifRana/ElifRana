@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElifRana&layout=compact&theme=midnight-purple)
 
 
-### 📫 How to reach me <img src="https://github.com/canozyigiit/ElifRana/blob/main/handshake.gif" height="32px"> :
+### 📫 How to reach me <img src="https://github.com/ElifRana/ElifRana/blob/main/b.jpeg" height="32px"> :
 
 
 [![Linkedin Badge](https://img.shields.io/badge/ElifRana-%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elif-rana-y%C4%B1lanc%C4%B1-1ba3801a3///)

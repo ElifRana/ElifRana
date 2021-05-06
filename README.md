@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/canozyigiit/canozyigiit/blob/main/wave.gif" width="30px"> ,I'm Elif Rana Yılancı   <img src="https://img.icons8.com/color/30/000000/human-torch.png"/>
+### Hi there <img src="https://github.com/canozyigiit/canozyigiit/blob/main/wave.gif" width="30px"> ,I'm Elif Rana Yılancı  
                                                     I am a computer engineer student
 
 

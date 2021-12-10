@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/canozyigiit/canozyigiit/blob/main/wave.gif" width="30px"> ,I'm Elif Rana Yılancı  
+### Hi there, I'm Elif Rana Yılancı  
                                                     I am a computer engineer student
 
 
@@ -25,5 +25,6 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![REDİS](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
